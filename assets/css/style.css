@@ -93,3 +93,9 @@ button:active {
 .pausado {
     color: red;
 }
+
+@media (max-width: 800px) {
+    .container {
+        margin: 1em;
+    }
+}
