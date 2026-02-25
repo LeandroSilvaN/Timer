@@ -5,7 +5,7 @@ Timer simples desenvolvido com **HTML, CSS e JavaScript**, permitindo iniciar, p
 ## 🚀 Acesse o projeto
 
 🔗 **GitHub Pages:**
-[https://LeandroSilvaN.github.io/timer/](https://LeandroSilvaN.github.io/timer/)
+<a href="https://leandrosilvan.github.io/Timer/">Timer</a>
 
 ## 📌 Funcionalidades
 
